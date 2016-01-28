@@ -3,4 +3,4 @@
 
 ## 概述
 
-WeUI框架![](https://github.com/weui/weui/wiki)
+[WeUI框架](https://github.com/weui/weui/wiki)
